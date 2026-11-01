@@ -20,7 +20,6 @@ The first version will support:
 - Linux hosts
 - Docker containers
 - CPU, RAM, Disk and Network metrics
-- Manual network topology configuration
 - Basic network diagnostics
 - Incident notifications
 
