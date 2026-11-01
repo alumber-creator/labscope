@@ -4,20 +4,20 @@
 >Accepted
 
 ## Context
-LabScope requires infrastructure monitoring, network diagnostic and incident management.
+LabScope requires infrastructure monitoring, network diagnostics and incident management.
 
 The application is initially developed by a single developer.
 
 ## Decision
-- Use Modular Monolith architecture for the Backend.
+- Use a Modular Monolith architecture for the Backend.
 
-- Use separate Python Agents on Linux hosts.
+- Use separate Python agents on Linux hosts.
 
 - Use PostgreSQL for structured data.
 
 - Use Prometheus for metrics storage.
 
-- Use Docker Compose for central deployment
+- Use Docker Compose for central deployment.
 
 ## Consequences
 - Simple initial development.
@@ -26,5 +26,5 @@ The application is initially developed by a single developer.
 - Possibility of future modular expansion.
 
 ## Alternatives Considered
-- Microservice
-- Single-process Monolith  
+- Microservices
+- Single process Monolith  
