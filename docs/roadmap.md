@@ -4,6 +4,8 @@
 - [ ] Configure Docker Compose
 - [ ] Setup FastAPI
 - [ ] Setup PostgreSQL
+- [ ] Setup Alembic
+- [ ] Setup Github Actions
 
 ## Milestone 1 - First Host Monitoring
 - [ ] Implement Linux Agent

@@ -1,0 +1,1 @@
+"""This module is responsible for visual map of network."""

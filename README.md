@@ -1,5 +1,5 @@
 # LabScope
-Self-hosted platform for monitoring, visualizing and diagnosing IT infrastructure.
+Self-hosted platform for monitoring, visualizing and diagnosting IT infrastructure.
 
 LabScope is a self-hosted application designed
 to monitor Linux servers, Docker containers

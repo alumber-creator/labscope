@@ -1,0 +1,1 @@
+"""This module is responsible for diagnostic and processing incidents, errors, problems and etc."""
